@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "299783407128",
+    "project_id": "the-bloom-room-aeaf1",
+    "storage_bucket": "the-bloom-room-aeaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299783407128:android:5e07e37ca407e4688ae56d",
+        "android_client_info": {
+          "package_name": "com.example.thebloomroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299783407128-mnciqm551iarvnjg6uq5qphn15e6kunn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMXgKcRx6HNgLP3iLjZBzgjQQxo_zDXzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299783407128-mnciqm551iarvnjg6uq5qphn15e6kunn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
